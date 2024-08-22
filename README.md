@@ -4,7 +4,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
 - 🌱 I’m currently working on **my personal projects**
 
@@ -16,7 +16,7 @@
   
 - ⚡ Fun fact **watching films & tvseries, playing taekwondo**
   
-- 🌐 Socials     [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshiwijethungesk@gmail.com) 
+- 🌐 Socials     **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshiwijethungesk@gmail.com)** 
 
 ---
 
