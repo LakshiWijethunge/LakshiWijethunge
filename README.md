@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋<br>I'm Lakshi Wijethunge</h1>
+<h1 align="center">Hi 👋<br><br>I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
 
@@ -48,7 +48,7 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center"><a href="https://www.buymeacoffee.com/lakshiWijethunge"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lakshiWijethunge" /></a></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lakshiwijethunge&theme=radical&no-frame=false&no-bg=false&margin-w=4)
