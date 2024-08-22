@@ -1,4 +1,3 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
@@ -17,12 +16,8 @@
   
 - ⚡ Fun fact **watching films & tvseries, playing taekwondo**
   
-## 🌐 Socials:
+- 🌐 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshiwijethungesk@gmail.com) 
-
-<p align="left">
-<a href="https://linkedin.com/in/williamcarlstrom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="williamcarlstrom" height="30" width="40" /></a>
-</p>
 
 ---
 
