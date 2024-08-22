@@ -47,7 +47,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies<br>
 ![](https://github-profile-trophy.vercel.app/?username=janithmidissanayake&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
