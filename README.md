@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋<br><br>I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
 
-
-<br>
-<img align="right" alt="Coding" width="250" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 
 - 🔭 I’m currently working on **my personal projects**
 
@@ -18,6 +20,16 @@
 - 🌐 Connect with me
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshi-wijethunge/)
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -55,7 +67,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
