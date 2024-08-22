@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋<br><br>I'm Lakshi Wijethunge<br></h1>
----
+<h1 align="center">Hi 👋<br><br>I'm Lakshi Wijethunge</h1>
+<br>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
 
