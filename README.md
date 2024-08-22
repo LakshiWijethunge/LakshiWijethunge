@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋<br><br>I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
-[![](https://visitcount.itsvg.in/api?id=lakshiwihethunge&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
----
+
 
 <br>
+[![](https://visitcount.itsvg.in/api?id=lakshiwihethunge&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
 - 🌱 I’m currently working on **my personal projects**
