@@ -53,12 +53,12 @@
 
 ---
 
-<h3>🏆 GitHub Trophies</h3>
+##🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lakshiwijethunge&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-<h3> ✍️ Random Dev Quote</h3>
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
