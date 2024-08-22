@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshiwijethunge" alt="lakshiwijethunge" /></a> </p>
-
 - 🔭 I’m an undergraduate at **University of Moratuwa**
 
 - 📫 How to reach me **lakshiwijethunge@gmail.com**
