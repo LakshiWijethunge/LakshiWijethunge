@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋<br><br>I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge"/> </p>
 
 
 <br>
@@ -60,6 +60,3 @@
 
 ##✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
