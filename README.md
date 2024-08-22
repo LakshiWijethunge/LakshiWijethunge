@@ -3,7 +3,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
+<img align="right" alt="Coding" width="250" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 - 🔭 I’m currently working on **my personal projects**
 
@@ -15,7 +15,7 @@
   
 - ⚡ Fun fact **watching films & tvseries, playing taekwondo**
   
-- 🌐 Socials
+- 🌐 Connect with me
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshi-wijethunge/)
 
