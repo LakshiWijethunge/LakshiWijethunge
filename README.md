@@ -57,6 +57,5 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
-[![](https://visitcount.itsvg.in/api?id=lakshiwihethunge&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
