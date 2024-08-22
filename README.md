@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋<br><br>I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
-
+[![](https://visitcount.itsvg.in/api?id=lakshiwihethunge&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ---
 
 <br>
@@ -56,17 +56,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=janithmidissanayake&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=lakshiwihethunge&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
