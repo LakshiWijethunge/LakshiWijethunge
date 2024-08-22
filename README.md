@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lakshi Wijethunge</h1>
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">I'm Lakshi Wijethunge</h1>
 <h3 align="center">Passionate IT Student | Always Learning, Always Growing</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
 
@@ -16,7 +17,7 @@
   
 - ⚡ Fun fact **watching films & tvseries, playing taekwondo**
   
-- 🌐 Socials     **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshiwijethungesk@gmail.com)** 
+- 🌐 Socials  **   **  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshiwijethungesk@gmail.com)** 
 
 ---
 
