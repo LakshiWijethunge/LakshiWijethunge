@@ -5,7 +5,7 @@
 <br>
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif">
 
-- 🌱 I’m currently working on **my personal projects**
+- 🔭 I’m currently working on **my personal projects**
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Moratuwa**
 
@@ -56,7 +56,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshiwijethunge&label=Profile%20views&color=0e75b6&style=flat" alt="lakshiwijethunge" /> </p>
 [![](https://visitcount.itsvg.in/api?id=lakshiwihethunge&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
